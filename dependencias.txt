@@ -1,0 +1,32 @@
+
+
+
+-- crea y activar entorno
+pipenv shell
+
+
+-- correr aplicativo
+
+flask run --reload  
+------------------------
+cv2
+
+pip3 install opencv-python
+-------------
+pip3 install matplotlib
+
+--------
+ pip3 install tensorflow 
+
+ ---instalar flask en el ambiente
+
+  pipenv install flask 
+
+
+  --dependencias
+   pipenv install autopep8 
+
+   pipenv install pylint  
+
+
+
